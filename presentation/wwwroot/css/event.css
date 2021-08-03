@@ -1,0 +1,17 @@
+﻿
+
+.cols-display {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    margin-bottom: 15px
+}
+
+.conflect {
+  border : 2px solid red ;
+  box-shadow : 1px 1px 1px 1px  red  ;
+}
+
+.no-conflect {
+    border: 2px solid green;
+    box-shadow: 1px 1px 1px 1px green;
+}
